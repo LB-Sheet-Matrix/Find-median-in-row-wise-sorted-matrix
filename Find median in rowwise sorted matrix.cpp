@@ -32,9 +32,6 @@ Auxiliary Space : O(1)
 
 */
 
-//ISSUES:
-
-// Make input as vector. error aara usme isiliye static input liya
 
 #include<bits/stdc++.h>
                      
